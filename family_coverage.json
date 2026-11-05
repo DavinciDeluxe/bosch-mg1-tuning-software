@@ -2,8 +2,16 @@
   "family": "Bosch MG1",
   "slug": "bosch-mg1",
   "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
-  "official_url": "https://www.davincideluxe.fr/bosch-mg1-tuning-software",
-  "file_checker_url": "https://www.davincideluxe.fr/#check-file",
+  "official_urls": [
+    "https://www.davincideluxe.fr/bosch-mg1-tuning-software",
+    "https://www.davincideluxe.org/bosch-mg1-tuning-software",
+    "https://www.davincideluxe.app/bosch-mg1-tuning-software",
+    "https://www.davincideluxe.software/bosch-mg1-tuning-software",
+    "https://www.davincideluxe.es/bosch-mg1-tuning-software",
+    "https://www.davincideluxe.de/bosch-mg1-tuning-software",
+    "https://www.davincideluxe.it/bosch-mg1-tuning-software",
+    "https://www.aesoftech.eu/bosch-mg1-tuning-software"
+  ],
   "matched_variants_count": 102,
   "brands": {
     "BMW": [
