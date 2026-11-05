@@ -1,0 +1,164 @@
+{
+  "family": "Bosch MG1",
+  "slug": "bosch-mg1",
+  "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
+  "official_url": "https://www.davincideluxe.fr/bosch-mg1-tuning-software",
+  "file_checker_url": "https://www.davincideluxe.fr/#check-file",
+  "matched_variants_count": 102,
+  "brands": {
+    "BMW": [
+      "MG1",
+      "MG1CS003",
+      "MG1CS024",
+      "MG1CS049",
+      "MG1CS201"
+    ],
+    "MINI": [
+      "MG1",
+      "MG1CS003",
+      "MG1CS024",
+      "MG1CS049",
+      "MG1CS201"
+    ],
+    "FORD": [
+      "MG1CS015",
+      "MG1CS016",
+      "MG1CS017",
+      "MG1CS018",
+      "MG1CS019",
+      "MG1CS028"
+    ],
+    "LAND ROVER": [
+      "MG1CS028"
+    ],
+    "MERCEDES-BENZ": [
+      "MG1",
+      "MG1CP002"
+    ],
+    "SMART": [
+      "MG1",
+      "MG1CP002"
+    ],
+    "MAYBACH": [
+      "MG1",
+      "MG1CP002"
+    ],
+    "OPEL": [
+      "MG1CS042"
+    ],
+    "CHEVROLET": [
+      "MG1CS042"
+    ],
+    "VAUXHALL": [
+      "MG1CS042"
+    ],
+    "PEUGEOT": [
+      "MG1CS032",
+      "MG1CS042"
+    ],
+    "CITROËN": [
+      "MG1CS042"
+    ],
+    "DS": [
+      "MG1CS042"
+    ],
+    "SUZUKI": [
+      "MG1CS026"
+    ],
+    "TOYOTA": [
+      "MG1CS201"
+    ],
+    "LEXUS": [
+      "MG1CS201"
+    ],
+    "VOLKSWAGEN": [
+      "MG1CP002",
+      "MG1CP007",
+      "MG1CS001",
+      "MG1CS002",
+      "MG1CS008",
+      "MG1CS011",
+      "MG1CS031",
+      "MG1CS111"
+    ],
+    "AUDI": [
+      "MG1",
+      "MG1CP002",
+      "MG1CP007",
+      "MG1CS001",
+      "MG1CS002",
+      "MG1CS008",
+      "MG1CS011",
+      "MG1CS031",
+      "MG1CS111"
+    ],
+    "SEAT": [
+      "MG1",
+      "MG1CP002",
+      "MG1CP007",
+      "MG1CS001",
+      "MG1CS002",
+      "MG1CS008",
+      "MG1CS011",
+      "MG1CS031",
+      "MG1CS111"
+    ],
+    "SKODA": [
+      "MG1CP002",
+      "MG1CP007",
+      "MG1CS001",
+      "MG1CS002",
+      "MG1CS008",
+      "MG1CS011",
+      "MG1CS031",
+      "MG1CS111"
+    ],
+    "CUPRA": [
+      "MG1CP002",
+      "MG1CP007",
+      "MG1CS001",
+      "MG1CS002",
+      "MG1CS008",
+      "MG1CS011",
+      "MG1CS031",
+      "MG1CS111"
+    ],
+    "PORSCHE": [
+      "MG1",
+      "MG1CP002",
+      "MG1CP007",
+      "MG1CS001",
+      "MG1CS002",
+      "MG1CS008",
+      "MG1CS011",
+      "MG1CS031",
+      "MG1CS111"
+    ],
+    "LAMBORGHINI": [
+      "MG1CP002",
+      "MG1CP007",
+      "MG1CS001",
+      "MG1CS002",
+      "MG1CS008",
+      "MG1CS011",
+      "MG1CS031",
+      "MG1CS111"
+    ],
+    "BENTLEY": [
+      "MG1CP002",
+      "MG1CP007",
+      "MG1CS001",
+      "MG1CS002",
+      "MG1CS008",
+      "MG1CS011",
+      "MG1CS031",
+      "MG1CS111"
+    ],
+    "VOLVO": [
+      "MG1CS080"
+    ],
+    "LINCOLN": [
+      "MG1CS015"
+    ]
+  }
+}
