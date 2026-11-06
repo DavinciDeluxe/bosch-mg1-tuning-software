@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Bosch MG1 ECU Calibration Software — Latest Euro 6d/6e turbo-petrol & marine ECU (MG1CS001, MG1CS002, MG1CS003, MG1CS011, MG1CS024, MG1CP002, MG1CA920) (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/bosch-mg1-tuning-software"
+repository-code: "https://github.com/DavinciDeluxe/bosch-mg1-tuning-software"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
