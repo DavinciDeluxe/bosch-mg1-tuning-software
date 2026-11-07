@@ -1,10 +1,10 @@
-# Bosch MG1 ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.44)
+# Bosch MG1 ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.45)
 
 [![Live ECU Page](https://img.shields.io/badge/Bosch%20MG1-davincideluxe.fr-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/bosch-mg1-tuning-software)
 [![Portal .org](https://img.shields.io/badge/.ORG-davincideluxe.org-00c8ff?style=for-the-badge)](https://www.davincideluxe.org/bosch-mg1-tuning-software)
 [![Portal .app](https://img.shields.io/badge/.APP-davincideluxe.app-ff007f?style=for-the-badge)](https://www.davincideluxe.app/bosch-mg1-tuning-software)
 
-**Bosch MG1** is latest-generation Euro 6d turbo-petrol & Sea-Doo Rotax marine ECU family (MG1CS/MG1CA/MG1CP, 2018–2026). **DaVinci Deluxe Cloud Edition (v1.0.44)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Bosch MG1 readouts**.
+**Bosch MG1** is latest-generation Euro 6d turbo-petrol & Sea-Doo Rotax marine ECU family (MG1CS/MG1CA/MG1CP, 2018–2026). **DaVinci Deluxe Cloud Edition (v1.0.45)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Bosch MG1 readouts**.
 
 ## 📊 Live Bosch MG1 Variants Covered Across Brands
 
