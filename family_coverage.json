@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-mg1-tuning-software",
     "https://www.aesoftech.eu/bosch-mg1-tuning-software"
   ],
-  "matched_variants_count": 103,
+  "matched_variants_count": 108,
   "brands": {
     "BMW": [
       "MG1",
@@ -38,7 +38,14 @@
       "MG1CS036"
     ],
     "LAND ROVER": [
-      "MG1CS028"
+      "MG1CS008",
+      "MG1CS028",
+      "MG1CS201"
+    ],
+    "JAGUAR": [
+      "MG1CS008",
+      "MG1CS028",
+      "MG1CS201"
     ],
     "MERCEDES-BENZ": [
       "MG1",
