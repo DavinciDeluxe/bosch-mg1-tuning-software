@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-mg1-tuning-software",
     "https://www.aesoftech.eu/bosch-mg1-tuning-software"
   ],
-  "matched_variants_count": 108,
+  "matched_variants_count": 118,
   "brands": {
     "BMW": [
       "MG1",
@@ -60,12 +60,15 @@
       "MG1CP002"
     ],
     "OPEL": [
+      "MG1CS032",
       "MG1CS042"
     ],
     "CHEVROLET": [
+      "MG1CS032",
       "MG1CS042"
     ],
     "VAUXHALL": [
+      "MG1CS032",
       "MG1CS042"
     ],
     "PEUGEOT": [
@@ -73,9 +76,11 @@
       "MG1CS042"
     ],
     "CITROËN": [
+      "MG1CS032",
       "MG1CS042"
     ],
     "DS": [
+      "MG1CS032",
       "MG1CS042"
     ],
     "SUZUKI": [
@@ -88,6 +93,7 @@
       "MG1CS201"
     ],
     "VOLKSWAGEN": [
+      "MG1",
       "MG1CP002",
       "MG1CP007",
       "MG1CS001",
@@ -120,6 +126,7 @@
       "MG1CS111"
     ],
     "SKODA": [
+      "MG1",
       "MG1CP002",
       "MG1CP007",
       "MG1CS001",
@@ -130,6 +137,7 @@
       "MG1CS111"
     ],
     "CUPRA": [
+      "MG1",
       "MG1CP002",
       "MG1CP007",
       "MG1CS001",
@@ -151,6 +159,7 @@
       "MG1CS111"
     ],
     "LAMBORGHINI": [
+      "MG1",
       "MG1CP002",
       "MG1CP007",
       "MG1CS001",
@@ -161,6 +170,7 @@
       "MG1CS111"
     ],
     "BENTLEY": [
+      "MG1",
       "MG1CP002",
       "MG1CP007",
       "MG1CS001",
