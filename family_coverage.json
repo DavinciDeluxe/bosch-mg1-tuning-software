@@ -14,6 +14,25 @@
   ],
   "matched_variants_count": 118,
   "brands": {
+    "PEUGEOT": [
+      "MG1CS032",
+      "MG1CS042"
+    ],
+    "AUDI": [
+      "MG1",
+      "MG1CP002",
+      "MG1CP007",
+      "MG1CS001",
+      "MG1CS002",
+      "MG1CS008",
+      "MG1CS011",
+      "MG1CS031",
+      "MG1CS111"
+    ],
+    "OPEL": [
+      "MG1CS032",
+      "MG1CS042"
+    ],
     "BMW": [
       "MG1",
       "MG1CS003",
@@ -28,71 +47,7 @@
       "MG1CS049",
       "MG1CS201"
     ],
-    "FORD": [
-      "MG1CS015",
-      "MG1CS016",
-      "MG1CS017",
-      "MG1CS018",
-      "MG1CS019",
-      "MG1CS028",
-      "MG1CS036"
-    ],
-    "LAND ROVER": [
-      "MG1CS008",
-      "MG1CS028",
-      "MG1CS201"
-    ],
-    "JAGUAR": [
-      "MG1CS008",
-      "MG1CS028",
-      "MG1CS201"
-    ],
-    "MERCEDES-BENZ": [
-      "MG1",
-      "MG1CP002"
-    ],
-    "SMART": [
-      "MG1",
-      "MG1CP002"
-    ],
-    "MAYBACH": [
-      "MG1",
-      "MG1CP002"
-    ],
-    "OPEL": [
-      "MG1CS032",
-      "MG1CS042"
-    ],
-    "CHEVROLET": [
-      "MG1CS032",
-      "MG1CS042"
-    ],
-    "VAUXHALL": [
-      "MG1CS032",
-      "MG1CS042"
-    ],
-    "PEUGEOT": [
-      "MG1CS032",
-      "MG1CS042"
-    ],
-    "CITROËN": [
-      "MG1CS032",
-      "MG1CS042"
-    ],
-    "DS": [
-      "MG1CS032",
-      "MG1CS042"
-    ],
-    "SUZUKI": [
-      "MG1CS026"
-    ],
-    "TOYOTA": [
-      "MG1CS201"
-    ],
-    "LEXUS": [
-      "MG1CS201"
-    ],
-    "VOLKSWAGEN": [
+    "BENTLEY": [
       "MG1",
       "MG1CP002",
       "MG1CP007",
@@ -103,7 +58,82 @@
       "MG1CS031",
       "MG1CS111"
     ],
-    "AUDI": [
+    "CHEVROLET": [
+      "MG1CS032",
+      "MG1CS042"
+    ],
+    "CITROËN": [
+      "MG1CS032",
+      "MG1CS042"
+    ],
+    "CUPRA": [
+      "MG1",
+      "MG1CP002",
+      "MG1CP007",
+      "MG1CS001",
+      "MG1CS002",
+      "MG1CS008",
+      "MG1CS011",
+      "MG1CS031",
+      "MG1CS111"
+    ],
+    "VAUXHALL": [
+      "MG1CS032",
+      "MG1CS042"
+    ],
+    "DS": [
+      "MG1CS032",
+      "MG1CS042"
+    ],
+    "MERCEDES-BENZ": [
+      "MG1",
+      "MG1CP002"
+    ],
+    "FORD": [
+      "MG1CS015",
+      "MG1CS016",
+      "MG1CS017",
+      "MG1CS018",
+      "MG1CS019",
+      "MG1CS028",
+      "MG1CS036"
+    ],
+    "JAGUAR": [
+      "MG1CS008",
+      "MG1CS028",
+      "MG1CS201"
+    ],
+    "LAND ROVER": [
+      "MG1CS008",
+      "MG1CS028",
+      "MG1CS201"
+    ],
+    "LAMBORGHINI": [
+      "MG1",
+      "MG1CP002",
+      "MG1CP007",
+      "MG1CS001",
+      "MG1CS002",
+      "MG1CS008",
+      "MG1CS011",
+      "MG1CS031",
+      "MG1CS111"
+    ],
+    "LEXUS": [
+      "MG1CS201"
+    ],
+    "LINCOLN": [
+      "MG1CS015"
+    ],
+    "SMART": [
+      "MG1",
+      "MG1CP002"
+    ],
+    "MAYBACH": [
+      "MG1",
+      "MG1CP002"
+    ],
+    "PORSCHE": [
       "MG1",
       "MG1CP002",
       "MG1CP007",
@@ -136,40 +166,13 @@
       "MG1CS031",
       "MG1CS111"
     ],
-    "CUPRA": [
-      "MG1",
-      "MG1CP002",
-      "MG1CP007",
-      "MG1CS001",
-      "MG1CS002",
-      "MG1CS008",
-      "MG1CS011",
-      "MG1CS031",
-      "MG1CS111"
+    "SUZUKI": [
+      "MG1CS026"
     ],
-    "PORSCHE": [
-      "MG1",
-      "MG1CP002",
-      "MG1CP007",
-      "MG1CS001",
-      "MG1CS002",
-      "MG1CS008",
-      "MG1CS011",
-      "MG1CS031",
-      "MG1CS111"
+    "TOYOTA": [
+      "MG1CS201"
     ],
-    "LAMBORGHINI": [
-      "MG1",
-      "MG1CP002",
-      "MG1CP007",
-      "MG1CS001",
-      "MG1CS002",
-      "MG1CS008",
-      "MG1CS011",
-      "MG1CS031",
-      "MG1CS111"
-    ],
-    "BENTLEY": [
+    "VOLKSWAGEN": [
       "MG1",
       "MG1CP002",
       "MG1CP007",
@@ -182,9 +185,6 @@
     ],
     "VOLVO": [
       "MG1CS080"
-    ],
-    "LINCOLN": [
-      "MG1CS015"
     ]
   }
 }
